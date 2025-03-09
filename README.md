@@ -39,7 +39,7 @@ Open **MATLAB** and navigate to the **VoteNet repository** folder. Run the follo
 These scripts are located inside the `matlab` folder of the **VoteNet** repository.
 
 #### 5. Prepare the Dataset:
-Run the following Python script to generate the **train** and **validation** folders:
+Open Visual studio code, run the following Python script to generate the **train** and **validation** folders:
 ```bash
 python sunrgbd_data.py --gen_v1_data
 ```
