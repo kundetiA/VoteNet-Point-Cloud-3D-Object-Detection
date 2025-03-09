@@ -2,7 +2,7 @@
 
 This notebook provides a comprehensive guide for setting up **VoteNet** for 3D object detection using the **SUNRGBD Point Cloud Dataset**. The following steps are covered:
 
-### Key Insights:
+### Important Steps covered:
 - **Setting up the virtual environment** with an older Python version in a Colab notebook.
 - **Compiling CUDA/C++ extensions** for **PointNet2**, which is used as the backbone for **VoteNet**.
 - **Training VoteNet** with the **SUNRGBD Dataset**.
@@ -56,7 +56,3 @@ After completing the steps above, your **train** and **test** datasets will be r
 To start training the model, follow the instructions inside the notebook and make sure you have successfully set up the **virtual environment** and compiled the necessary **PointNet2** extensions.
 
 Good luck with your 3D object detection task! 🚀
-
----
-
-This format is easy to follow and ensures the steps are clear and logical. Let me know if you need any further adjustments!
