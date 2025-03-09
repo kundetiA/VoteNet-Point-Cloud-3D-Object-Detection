@@ -55,4 +55,4 @@ After completing the steps above, your **train** and **test** datasets will be r
 
 To start training the model, follow the instructions inside the notebook and make sure you have successfully set up the **virtual environment** and compiled the necessary **PointNet2** extensions.
 
-Good luck with your 3D object detection task! 🚀
+Good luck with your 3D object detection task! 
