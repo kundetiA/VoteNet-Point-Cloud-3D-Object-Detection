@@ -15,7 +15,8 @@ Please follow these steps to correctly set up the dataset for training.
 
 #### 1. Clone the GitHub repository to your local machine:
 ```bash
-git clone https://github.com/YOUR_USERNAME/VoteNet.git
+git clone https://github.com/facebookresearch/votenet.git
+
 ```
 
 #### 2. Download the SUNRGBD Dataset:
